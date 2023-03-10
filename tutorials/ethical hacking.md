@@ -20,3 +20,19 @@ CREDIT_CARD_EXPIRE:12/2034
 ```
 
 -----------------------------------------------
+A common way to hack is to use SQL injection,which allows you to see the data in the database
+
+index.html
+```html
+<input name="SuperSecretId">
+```
+
+Output:
+```
+USERNAME:GOODLE
+PASSWORD:DOOGBB
+
+USERNAME:SERv89
+PASSWORD:49w2qw
+
+```
